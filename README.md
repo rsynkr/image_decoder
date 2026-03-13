@@ -1,4 +1,4 @@
-         <img width="1372" height="177" alt="ascii-art-text" src="https://github.com/user-attachments/assets/4f622d1e-a2c8-4060-8ba4-a56d1883876b" />
+Image decoder
                                   
 Image Decoder is a simple web tool that extracts and decodes hidden information embedded inside images. It allows users to upload an image and instantly reveal encoded or hidden data contained within it.
 
