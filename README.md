@@ -1,17 +1,11 @@
-██╗███╗   ███╗ █████╗  ██████╗ ███████╗
-██║████╗ ████║██╔══██╗██╔════╝ ██╔════╝
-██║██╔████╔██║███████║██║  ███╗█████╗  
-██║██║╚██╔╝██║██╔══██║██║   ██║██╔══╝  
-██║██║ ╚═╝ ██║██║  ██║╚██████╔╝███████╗
-╚═╝╚═╝     ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝
-
-██████╗ ███████╗ ██████╗ ██████╗ ██████╗ ███████╗██████╗ 
-██╔══██╗██╔════╝██╔════╝██╔═══██╗██╔══██╗██╔════╝██╔══██╗
-██║  ██║█████╗  ██║     ██║   ██║██║  ██║█████╗  ██████╔╝
-██║  ██║██╔══╝  ██║     ██║   ██║██║  ██║██╔══╝  ██╔══██╗
-██████╔╝███████╗╚██████╗╚██████╔╝██████╔╝███████╗██║  ██║
-╚═════╝ ╚══════╝ ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝
-
+  _____                              _____                     _           
+ |_   _|                            |  __ \                   | |          
+   | |  _ __ ___   __ _  __ _  ___  | |  | | ___  ___ ___   __| | ___ _ __ 
+   | | | '_ ` _ \ / _` |/ _` |/ _ \ | |  | |/ _ \/ __/ _ \ / _` |/ _ \ '__|
+  _| |_| | | | | | (_| | (_| |  __/ | |__| |  __/ (_| (_) | (_| |  __/ |   
+ |_____|_| |_| |_|\__,_|\__, |\___| |_____/ \___|\___\___/ \__,_|\___|_|   
+                         __/ |                                             
+                        |___/                                              
 Image Decoder is a simple web tool that extracts and decodes hidden information embedded inside images. It allows users to upload an image and instantly reveal encoded or hidden data contained within it.
 
 The application is designed for experimenting with image-based data encoding/decoding techniques, commonly used in areas such as steganography, debugging encoded images, or analyzing images that contain hidden metadata.
